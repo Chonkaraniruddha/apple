@@ -1,0 +1,22 @@
+
+.broccoli_1f966{
+    background-color: crimson;
+}
+.red-apple_1f34e{
+    background-color: rgb(0, 252, 42);
+
+}
+img:hover{
+    background-color: goldenrod;
+}
+.circular{
+    border-radius: 100%;
+}
+h1{
+    font-size: 50px;
+
+}
+/*   heading       */
+#heading{
+    color: blue;
+}
